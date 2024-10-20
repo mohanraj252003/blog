@@ -1,1 +1,1 @@
-Live Link: https://blog-website-u1lo.onrender.com/
+Live Link: https://mohanraj252003.github.io/blog/
